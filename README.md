@@ -13,3 +13,4 @@ Instrukcja instalacji:
   5)Gotowe 
 
 Ps:Alert spaghetti code
+Pare funkcji które dodałem bez opisania w dokumentacji.
